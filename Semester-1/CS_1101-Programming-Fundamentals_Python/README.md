@@ -1,6 +1,7 @@
-# Week One
+# CS_1101-Programming-Fundamentals_Python
 
-## Week One Coursework
+## CS 1101: Programming Fundamentals (Python)
 
-Assignment, Programming Examples, School Report.
+Coursework, Assignments, Programming Assignments, Programming Examples, and School Reports
 
+> SEMESTER ONE 
